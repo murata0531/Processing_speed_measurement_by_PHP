@@ -1,5 +1,15 @@
 # Processing_speed_measurement_by_PHP
 
+PHPで処理速度を測るリポジトリ
+
+単純な計算やデータベースアクセスの速度を測る
+
+環境
+
+Laravel
+
+
+
 コンテナ作成
 
 ```
