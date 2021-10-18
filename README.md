@@ -62,6 +62,16 @@ bash# php artisan key:generate
 bash# php artisan calc
 ```
 
+CRUD操作
+
+```
+bash# php artisan createusers
+
+bash# php artisan selectusers
+
+bash# php artisan updateusers
+
+bash# php artisan deleteusers
 # 注意
 
 .envファイルの ` DB_HOST ` の項目は ` db ` にする
