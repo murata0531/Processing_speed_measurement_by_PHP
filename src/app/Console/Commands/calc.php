@@ -42,7 +42,7 @@ class calc extends Command
         // $principal = $this->ask('元本:');
         // $goal = $this->ask('目標金額:');
 
-        $repeat_cnt = 10;
+        $repeat_cnt = 100;
         $principal = 500000;
         $goal = 45000000;
         $start = microtime(true);
