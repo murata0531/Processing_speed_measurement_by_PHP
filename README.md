@@ -56,6 +56,12 @@ bash# php artisan key:generate
 
 ```
 
+年率計算
+
+```
+bash# php artisan calc
+```
+
 # 注意
 
 .envファイルの ` DB_HOST ` の項目は ` db ` にする
