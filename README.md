@@ -72,6 +72,8 @@ bash# php artisan selectusers
 bash# php artisan updateusers
 
 bash# php artisan deleteusers
+```
+
 # 注意
 
 .envファイルの ` DB_HOST ` の項目は ` db ` にする
