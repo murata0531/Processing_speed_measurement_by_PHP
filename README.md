@@ -62,6 +62,12 @@ bash# php artisan key:generate
 bash# php artisan calc
 ```
 
+ライプニッツ級数で円周率を求める
+
+```
+ash# php artisan Leibniz
+```
+
 CRUD操作
 
 ```
